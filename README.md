@@ -1,1 +1,1 @@
-# cinema-finder-poc-main
+# Cinema Finder Poc
